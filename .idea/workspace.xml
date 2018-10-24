@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d105a93-f442-4149-9973-d8e701cccc92" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Longest_Increasing_Subsequence/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Longest_Increasing_Subsequence/test_LIS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Longest_Increasing_Subsequence/test_LIS.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,15 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCodeDay$eorigjoerige.coverage" NAME="eorigjoerige Coverage Results" MODIFIED="1540396342935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Longest_Increasing_Subsequence" />
     <SUITE FILE_PATH="coverage/LeetCodeDay$Unittests_in_test_LIS_py__1_.coverage" NAME="Unittests in test_LIS.py Coverage Results" MODIFIED="1539563156723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Longest_Increasing_Subsequence" />
+    <SUITE FILE_PATH="coverage/LeetCodeDay$Unittests_in_test_LIS_py.coverage" NAME="Unittests in test_LIS.py Coverage Results" MODIFIED="1540397337315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Longest_Increasing_Subsequence" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="test_LIS.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/test_LIS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -38,11 +40,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="My_Solution.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DP_Solution.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/DP_Solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eorigjoerige.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/eorigjoerige.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="My_Solution.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/My_Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="38" lean-forward="true" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+            <state relative-caret-position="170">
+              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="My_Solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Coin_Change_2/My_Solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -64,11 +93,14 @@
       <list>
         <option value="$PROJECT_DIR$/dfsd.py" />
         <option value="$PROJECT_DIR$/Longest_Increasing_Subsequence/My_Solution.py" />
-        <option value="$PROJECT_DIR$/Longest_Increasing_Subsequence/test_LIS.py" />
         <option value="$PROJECT_DIR$/Longest_Increasing_Subsequence2/test_LIS.py" />
         <option value="$PROJECT_DIR$/Longest_Increasing_Sequence/test_LIS.py" />
         <option value="$PROJECT_DIR$/Longest_Increasing_Sequence/My_Solution.py" />
         <option value="$PROJECT_DIR$/Longest_Increasing_Subsequence/Easy_Solution.py" />
+        <option value="$PROJECT_DIR$/Coin_Change_2/My_Solution.py" />
+        <option value="$PROJECT_DIR$/Longest_Increasing_Subsequence/test_LIS.py" />
+        <option value="$PROJECT_DIR$/Longest_Increasing_Subsequence/eorigjoerige.py" />
+        <option value="$PROJECT_DIR$/Longest_Increasing_Subsequence/DP_Solution.py" />
       </list>
     </option>
   </component>
@@ -134,7 +166,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_LIS.py (1)">
+  <component name="RunManager" selected="Python tests.Unittests in test_LIS.py">
+    <configuration name="eorigjoerige" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCodeDay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Longest_Increasing_Subsequence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longest_Increasing_Subsequence/eorigjoerige.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Unittests in test_LIS.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeDay" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,12 +217,12 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests in test_LIS.py" />
-      <item itemvalue="Python tests.Unittests in test_LIS.py (1)" />
+      <item itemvalue="Python.eorigjoerige" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test_LIS.py (1)" />
         <item itemvalue="Python tests.Unittests in test_LIS.py" />
+        <item itemvalue="Python.eorigjoerige" />
       </list>
     </recent_temporary>
   </component>
@@ -189,41 +240,61 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_LIS_py_(1) - 2018.10.14 at 20h 24m 54s.xml">
-      <configuration name="Unittests in test_LIS.py (1)" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_LIS_py - 2018.10.14 at 20h 25m 28s.xml">
+    <history-entry file="Unittests_in_test_LIS_py - 2018.10.19 at 22h 01m 35s.xml">
       <configuration name="Unittests in test_LIS.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_LIS_py - 2018.10.14 at 20h 25m 57s.xml">
+    <history-entry file="Unittests_in_test_LIS_py - 2018.10.19 at 22h 01m 45s.xml">
+      <configuration name="Unittests in test_LIS.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LIS_py - 2018.10.19 at 22h 03m 45s.xml">
+      <configuration name="Unittests in test_LIS.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LIS_py - 2018.10.19 at 22h 04m 20s.xml">
+      <configuration name="Unittests in test_LIS.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LIS_py - 2018.10.19 at 22h 04m 21s.xml">
+      <configuration name="Unittests in test_LIS.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LIS_py - 2018.10.19 at 22h 28m 44s.xml">
+      <configuration name="Unittests in test_LIS.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LIS_py - 2018.10.24 at 11h 51m 18s.xml">
+      <configuration name="Unittests in test_LIS.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LIS_py - 2018.10.24 at 11h 52m 35s.xml">
+      <configuration name="Unittests in test_LIS.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LIS_py - 2018.10.24 at 12h 08m 55s.xml">
+      <configuration name="Unittests in test_LIS.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_LIS_py - 2018.10.24 at 12h 08m 57s.xml">
       <configuration name="Unittests in test_LIS.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32916147" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32916147" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32916147" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39924905" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,30 +303,70 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dfsd.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/test_LIS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="19" />
+        <state relative-caret-position="255">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/Easy_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/My_Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="54" selection-end-column="24" />
+        <state relative-caret-position="675">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coin_Change_2/My_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/test_LIS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="255">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/Easy_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/My_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/test_LIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -274,6 +385,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="45" column="38" lean-forward="true" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfsd.py" />
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/test_LIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/My_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="54" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/Easy_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coin_Change_2/My_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/My_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/eorigjoerige.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/test_LIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/DP_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>
